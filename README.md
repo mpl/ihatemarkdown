@@ -2,7 +2,11 @@
 
 > It's a way to store, sync, share, import, model, and back up content.  Keep your stuff for life.
 
-Linux: [![Linux Build Status](https://travis-ci.org/perkeep/perkeep.svg?branch=master)](https://travis-ci.org/perkeep/perkeep) Windows: [![Windows Build status](https://ci.appveyor.com/api/projects/status/bbdqxcy2b6x4lt2r/branch/master?svg=true)](https://ci.appveyor.com/project/mpl/perkeep/branch/master)
+Build | Status
+----|----
+Linux: | <a href='https://travis-ci.org/perkeep/perkeep'><img style='vertical-align:middle' src='https://travis-ci.org/perkeep/perkeep.svg?branch=master'>
+Windows: | [![Windows Build status](https://ci.appveyor.com/api/projects/status/bbdqxcy2b6x4lt2r/branch/master?svg=true)](https://ci.appveyor.com/project/mpl/perkeep/branch/master)
+ 
 
 ### For more, see
 
