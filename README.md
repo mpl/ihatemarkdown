@@ -1,11 +1,8 @@
-# ihatemarkdown
-Nothing to see here. Just a place to try markdown on my README so I don't fuck up other projects READMES.
-
 # Perkeep is your personal storage system.
 
 > It's a way to store, sync, share, import, model, and back up content.  Keep your stuff for life.
 
-[![Build Status](https://travis-ci.org/perkeep/perkeep.svg?branch=master)](https://travis-ci.org/perkeep/perkeep) [![Build status](https://ci.appveyor.com/api/projects/status/bbdqxcy2b6x4lt2r/branch/master?svg=true)](https://ci.appveyor.com/project/mpl/perkeep/branch/master)
+Linux: [![Linux Build Status](https://travis-ci.org/perkeep/perkeep.svg?branch=master)](https://travis-ci.org/perkeep/perkeep) Windows: [![Windows Build status](https://ci.appveyor.com/api/projects/status/bbdqxcy2b6x4lt2r/branch/master?svg=true)](https://ci.appveyor.com/project/mpl/perkeep/branch/master)
 
 ### For more, see
 
